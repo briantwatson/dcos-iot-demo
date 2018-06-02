@@ -6,7 +6,7 @@
 <br><b>Step 2:</b> We will 'Run a Service' by copy & pasting a 'JSON Configuration' so select the 'JSON Configuration option.<br>
 <img src="02.png"/>
 
-<br><b>Step 3:</b> Copy the contents of <a href="../map-webapp/map-webapp.json">map-webapp/map-webapp.json</a> to your clipboard, paste the contents to the 'JSON Configuration' area and click the 'REVIEW & RUN' button.<br>
+<br><b>Step 3:</b> Copy the contents of <a href="../../map-webapp/map-webapp.json">map-webapp/map-webapp.json</a> to your clipboard, paste the contents to the 'JSON Configuration' area and click the 'REVIEW & RUN' button.<br>
 <img src="03.png"/>
 
 <br><b>Step 4:</b> Click 'RUN SERVICE' to install the Map web application.<br>
@@ -32,5 +32,3 @@
 <img src="11.png"/>
 
 <br><br><b>Congratulations:</b> You now have a Map web application in place ...  Next, we will walk through how to ....
-
-
